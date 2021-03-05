@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759517750262",
+    "project_id": "appfireisco",
+    "storage_bucket": "appfireisco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759517750262:android:c19cdf2e923e7b92379dd7",
+        "android_client_info": {
+          "package_name": "com.example.appfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759517750262-v632kn3643afke36t8e290sj5dhar5rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCerql4qlW1-q8jMGaNwWZZBzN8aK1XzzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759517750262-v632kn3643afke36t8e290sj5dhar5rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
